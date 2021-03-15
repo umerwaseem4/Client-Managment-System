@@ -1,3 +1,4 @@
+console.log("Its working")
 if (window.location.pathname === "/") {
   $ondelete = $(".table tbody td a.delete");
   $ondelete.click(function () {
